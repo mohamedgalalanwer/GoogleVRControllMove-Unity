@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class KKKK : MonoBehaviour {
+public class Kalmy : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
